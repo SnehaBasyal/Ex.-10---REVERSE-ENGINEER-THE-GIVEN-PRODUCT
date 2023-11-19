@@ -30,13 +30,18 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+## INPUT:
 
-### Output:
+![image](empd10.png)
+<br>
 
+## OUTPUT:
 
-### Name:
-### Register Number:
+![image](empd10_2.png)
+<br>
+
+### Name: Sneha Basyal M
+### Register Number: 212222240101
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
